@@ -1,9 +1,3 @@
-<div align=center>
-
-  ![header](https://capsule-render.vercel.app/api?type=venom&color=timeAuto&height=300&section=header&text=Welcome%20to%20my%20Channel!&fontSize=60)
-  
-</div>
-
 <div>
   
 ### 🙋🏻‍♀️ About me...
