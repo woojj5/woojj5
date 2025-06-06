@@ -53,6 +53,7 @@ IoT 시스템에서의 지연시간 최적화와 네트워크 자원 효율화�
         <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black" />
         <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
         <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black" />
+        <img src="https://img.shields.io/badge/Overleaf-008000?style=flat-square&logo=notion&logoColor=black" />
       </td>
      </tr>
   </table>
