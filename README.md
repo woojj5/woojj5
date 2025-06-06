@@ -17,14 +17,8 @@ AI, 클라우드, IoT 기반의 시스템 개발에 관심이 있습니다. <br/
       </th>
       <td>
         <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Spring-6dd33f?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/SpringBoot-6dd33f?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/SpringSecurity-6dd33f?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/JSP/Servlet-d3d3d3?style=flat-square&logoColor=black" />
-        <img src="https://img.shields.io/badge/MyBatis-b61a20?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/JPA:Hibernate-59666C?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logoColor=white" />
-        <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-092E20?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logoColor=white" />
       </td>
     </tr>
