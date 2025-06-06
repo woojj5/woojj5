@@ -15,7 +15,3 @@ Here are some ideas to get you started:  [![Anurag's github stats](https://githu
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-  [![woojj5's github stats](https://github-readme-stats.vercel.app/api?username=woojj5)](https://github.com/woojj5/github-readme-stats)
-
