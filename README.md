@@ -37,10 +37,6 @@ AI, 클라우드, IoT 기반의 시스템 개발에 관심이 있습니다. <br/
         Front-End
       </th>
       <td>
-        <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logoColor=black" />
-        <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logoColor=black" />
-        <img src="https://img.shields.io/badge/JQuery-0769AD?style=flat-square&logoColor=black" />
-        <img src="https://img.shields.io/badge/Ajax-4e9ece?style=flat-square&logoColor=white" />
         <img src="https://img.shields.io/badge/HTML/CSS-e34f26?style=flat-square&logoColor=white" />
       </td>
      </tr>
