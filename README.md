@@ -57,10 +57,7 @@ AI, 클라우드, IoT 기반의 시스템 개발에 관심이 있습니다. <br/
       <td>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=black" />
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-        <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=subversion&logoColor=white" />
-        <img src="https://img.shields.io/badge/DBeaver-836d5e?style=flat-square&logo=dbeaver&logoColor=black" />
         <img src="https://img.shields.io/badge/VSCode-007acc?style=flat-square&logo=visualstudiocode&logoColor=white" />
-        <img src="https://img.shields.io/badge/STS-6dd33f?style=flat-squar&logo=spring&logoColor=black" />
         <img src="https://img.shields.io/badge/Eclipse-2c2255?style=flat-square&logo=eclipseide&logoColor=white" />
         <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=black" />
         <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
