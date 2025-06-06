@@ -37,7 +37,8 @@ AI, 클라우드, IoT 기반의 시스템 개발에 관심이 있습니다. <br/
         Front-End
       </th>
       <td>
-        <img src="https://img.shields.io/badge/HTML/CSS-e34f26?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/HTML-e34f26?style=flat-square&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-e34f26?style=flat-square&logoColor=white" />
       </td>
      </tr>
      <tr>
