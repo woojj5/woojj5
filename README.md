@@ -71,27 +71,6 @@
   </table>
   <br/><br/>
 
-### 📫 My channels ... 
-
-<div align=left >
-  <img height=180 src="https://github-readme-stats.vercel.app/api?username=mindyhere&show_icons=true" />
-  <img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mindyhere&layout=compact&exclude_repo=python-practice" />
-</div>
-
-<a href="https://github.com/mindyhere?tab=repositories">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
-</a>
-</a>
-<a href="https://mindyhere.github.io/">
-  <img src="https://img.shields.io/badge/GitHub Pages-2088FF?style=flat-square&logo=GitHub&logoColor=white" />
-</a>
-<a href="https://velog.io/@92miindy/posts">
-  <img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Velog&logoColor=white" />
-</a>
-<a href="https://mindyhere.notion.site/f873e1b3db85412c8342fb213c744d2b">
-  <img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=notion&logoColor=black" />
-</a>
-<br/>
 
 <!--
 ### 💬 Portfolio ...
