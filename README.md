@@ -7,7 +7,6 @@ Flask 기반의 백엔드 개발과 Python을 활용한 데이터 분석에 익�
 
 ---
 <br/>
-
 ### 🧐 Skills set...
 
   <table>
