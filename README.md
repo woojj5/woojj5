@@ -6,7 +6,7 @@ I am an engineer with experience in **industrial / EV-related data analysis** an
 
 ---
 
-## 🧠 Profile (Portfolio-Consistent)
+## 🧠 Profile
 
 * Experience working with **industrial and EV-related datasets**, including time-series data
 * Hands-on experience building **data analysis dashboards** in a team / organizational setting
