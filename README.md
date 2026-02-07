@@ -70,13 +70,13 @@ A **BaaS (Battery-as-a-Service) data analysis dashboard** developed as part of a
 
 ---
 
-### 🤖 **Industrial LLM Agent (Study)**
+### 🤖 **Industrial LLM Agent**
 
 A small study project exploring the **feasibility of applying LLMs, RAG, and ontology-based knowledge structures** to industrial or process-related data.
 
 * Implemented a simple RAG-style Q&A flow over limited documents
-* Used purely for learning and experimentation
-* No production deployment or system optimization involved
+* Verified that RAG improves response relevance compared to naive prompting in a constrained domain
+* Focused on understanding retrieval, context injection, and answer grounding behavior
 
 ---
 
