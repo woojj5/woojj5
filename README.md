@@ -70,7 +70,7 @@ A **BaaS (Battery-as-a-Service) data analysis dashboard** developed as part of a
 
 ---
 
-### 🤖 **Industrial LLM Agent**
+### 🤖 **BAAS LLM Agent**
 
 A small study project exploring the **feasibility of applying LLMs, RAG, and ontology-based knowledge structures** to industrial or process-related data.
 
