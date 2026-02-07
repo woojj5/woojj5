@@ -72,7 +72,7 @@ A **BaaS (Battery-as-a-Service) data analysis dashboard** developed as part of a
 
 ### 🤖 **BAAS LLM Agent**
 
-A small project exploring the **feasibility of applying LLMs, RAG ** to industrial or process-related data.
+A small project exploring the **feasibility of applying LLMs, RAG** to industrial or process-related data.
 
 * Implemented a simple RAG-style Q&A flow over limited documents
 * Verified that RAG improves response relevance compared to naive prompting in a constrained domain
