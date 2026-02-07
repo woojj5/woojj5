@@ -92,7 +92,7 @@ A small project exploring the **feasibility of applying LLMs, RAG** to industria
 
 * Improving skills in **industrial data analysis and visualization**
 * Deeper understanding of **time-series data systems** (e.g., InfluxDB)
-* Studying **ontology modeling (OWL) and knowledge grpah combined subjects**
+* Studying **ontology modeling (OWL) and knowledge graph combined subjects**
 * Continued study of **LLMs and AI system design** for future application
 
 ---
